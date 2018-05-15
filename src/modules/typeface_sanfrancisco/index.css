@@ -1,0 +1,167 @@
+@font-face {
+  font-family: 'san_francisco_textbold';
+  src: url('./files/sanfranciscotext-bold-webfont.woff2') format('woff2'),
+       url('./files/sanfranciscotext-bold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'san_francisco_textbold_italic';
+  src: url('./files/sanfranciscotext-bolditalic-webfont.woff2') format('woff2'),
+       url('./files/sanfranciscotext-bolditalic-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'san_francisco_textheavy';
+  src: url('./files/sanfranciscotext-heavy-webfont.woff2') format('woff2'),
+       url('./files/sanfranciscotext-heavy-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'san_francisco_textHvIt';
+  src: url('./files/sanfranciscotext-heavyitalic-webfont.woff2') format('woff2'),
+       url('./files/sanfranciscotext-heavyitalic-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'san_francisco_textlight';
+  src: url('./files/sanfranciscotext-light-webfont.woff2') format('woff2'),
+       url('./files/sanfranciscotext-light-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'san_francisco_textLtIt';
+  src: url('./files/sanfranciscotext-lightitalic-webfont.woff2') format('woff2'),
+       url('./files/sanfranciscotext-lightitalic-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'san_francisco_textmedium';
+  src: url('./files/sanfranciscotext-medium-webfont.woff2') format('woff2'),
+       url('./files/sanfranciscotext-medium-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'san_francisco_textMdIt';
+  src: url('./files/sanfranciscotext-mediumitalic-webfont.woff2') format('woff2'),
+       url('./files/sanfranciscotext-mediumitalic-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'san_francisco_textregular';
+  src: url('./files/sanfranciscotext-regular-webfont.woff2') format('woff2'),
+       url('./files/sanfranciscotext-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'san_francisco_textitalic';
+  src: url('./files/sanfranciscotext-regularitalic-webfont.woff2') format('woff2'),
+       url('./files/sanfranciscotext-regularitalic-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'san_francisco_textsemibold';
+  src: url('./files/sanfranciscotext-semibold-webfont.woff2') format('woff2'),
+       url('./files/sanfranciscotext-semibold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'san_francisco_textSBdIt';
+  src: url('./files/sanfranciscotext-semibolditalic-webfont.woff2') format('woff2'),
+       url('./files/sanfranciscotext-semibolditalic-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'san_francisco_displayblack';
+  src: url('./files/sanfranciscodisplay-black-webfont.woff2') format('woff2'),
+       url('./files/sanfranciscodisplay-black-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'san_francisco_displaybold';
+  src: url('./files/sanfranciscodisplay-bold-webfont.woff2') format('woff2'),
+       url('./files/sanfranciscodisplay-bold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'san_francisco_displayheavy';
+  src: url('./files/sanfranciscodisplay-heavy-webfont.woff2') format('woff2'),
+       url('./files/sanfranciscodisplay-heavy-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'san_francisco_displaylight';
+  src: url('./files/sanfranciscodisplay-light-webfont.woff2') format('woff2'),
+       url('./files/sanfranciscodisplay-light-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'san_francisco_displaymedium';
+  src: url('./files/sanfranciscodisplay-medium-webfont.woff2') format('woff2'),
+       url('./files/sanfranciscodisplay-medium-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'san_francisco_displayregular';
+  src: url('./files/sanfranciscodisplay-regular-webfont.woff2') format('woff2'),
+       url('./files/sanfranciscodisplay-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'san_francisco_displaysemibold';
+  src: url('./files/sanfranciscodisplay-semibold-webfont.woff2') format('woff2'),
+       url('./files/sanfranciscodisplay-semibold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'san_francisco_displaythin';
+  src: url('./files/sanfranciscodisplay-thin-webfont.woff2') format('woff2'),
+       url('./files/sanfranciscodisplay-thin-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'san_francisco_displayultraLt';
+  src: url('./files/sanfranciscodisplay-ultralight-webfont.woff2') format('woff2'),
+       url('./files/sanfranciscodisplay-ultralight-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}

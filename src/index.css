@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-family: 'san_francisco_textregular';
+  color: #FFFFFF;
+  font-size: 18px;
+  background-color: #1d2028;
+  display: block;
+  width: 100%;
+  height: auto;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.page-appear {
+  opacity: 0.01;
+  transform: translateY(30px);
+}
+
+.page-appear.page-appear-active {
+  transition: opacity .3s ease-in , transform .2s linear;
+  opacity: 1;
+  transform: translateY(0);
+}
+
+@media (min-width: 576px) {  }
+
+@media (min-width: 768px) {  }
+
+@media (min-width: 992px) {  }
+
+@media (min-width: 1200px) {  }

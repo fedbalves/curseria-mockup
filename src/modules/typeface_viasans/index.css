@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'via_sans_blackblack_italic';
+  src: url('./files/via_sans_black_italic-webfont.woff2') format('woff2'),
+       url('./files/via_sans_black_italic-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'via_sansblack';
+  src: url('./files/via_sans_black-webfont.woff2') format('woff2'),
+       url('./files/via_sans_black-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'via_sans_boldbold_italic';
+  src: url('./files/via_sans_bold_italic-webfont.woff2') format('woff2'),
+       url('./files/via_sans_bold_italic-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'via_sans_boldbold';
+  src: url('./files/via_sans_bold-webfont.woff2') format('woff2'),
+       url('./files/via_sans_bold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
